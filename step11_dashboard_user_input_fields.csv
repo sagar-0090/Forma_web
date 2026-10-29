@@ -1,0 +1,19 @@
+Field,Category,Required,Dashboard_Purpose
+Age,Demographic,Yes,Age-related CVD risk assessment
+Gender,Demographic,Yes,Demographic information
+Race,Demographic,Yes,Demographic information
+BMI,Anthropometric,Yes,Weight-related cardiovascular risk
+Height,Anthropometric,Yes,Anthropometric information
+Weight,Anthropometric,Yes,Anthropometric information
+Waist,Anthropometric,Yes,Central adiposity assessment
+TSH,Thyroid,Yes,Thyroid function assessment
+Free_T3,Thyroid,Yes,Thyroid function assessment
+Free_T4,Thyroid,Yes,Thyroid function assessment
+TPO,Thyroid,Yes,Thyroid antibody information
+HDL,Cardiovascular,Yes,Lipid-related cardiovascular risk
+Total_Cholesterol,Cardiovascular,Yes,Lipid-related cardiovascular risk
+Diabetes,Medical history,Yes,Diabetes-related cardiovascular risk
+Smoking_100_Cigarettes,Lifestyle,Yes,Smoking-related cardiovascular risk
+Thyroid_Diagnosis,Thyroid,Yes,Thyroid condition information
+SYS_BP,Cardiovascular,Yes,Blood pressure-related cardiovascular risk
+DIA_BP,Cardiovascular,Yes,Blood pressure-related cardiovascular risk

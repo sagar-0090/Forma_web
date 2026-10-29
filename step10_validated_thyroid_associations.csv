@@ -1,0 +1,6 @@
+Feature,Association_Status,Interpretation
+TSH,No significant association after validation,TSH was not independently associated with model-predicted CVD in the validated analysis.
+Free_T3,No significant association after validation,Free T3 was not independently associated with model-predicted CVD in the validated analysis.
+Free_T4,Unadjusted association; not independently significant after adjustment,"Free T4 was higher in the predicted-CVD group, but the association did not remain independently significant after adjustment."
+TPO,No significant association after validation,TPO was not independently associated with model-predicted CVD in the validated analysis.
+FT3_FT4_Ratio,Unadjusted association; not independently significant after adjustment,"The FT3/FT4 ratio was lower in the predicted-CVD group and was associated with continuous CVD probability, but the adjusted association did not remain independently significant."

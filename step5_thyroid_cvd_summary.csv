@@ -1,0 +1,2 @@
+Thyroid_Status,Number_of_Patients,Mean_CVD_Probability,Median_CVD_Probability,Std_CVD_Probability,Minimum_CVD_Probability,Maximum_CVD_Probability,Predicted_CVD_Count,Predicted_CVD_Percentage
+Thyroid Problem,107,0.5245746998300156,0.5427500926035,0.25275462937488374,0.1116988813941759,0.9612548993061,50,46.728971962616825

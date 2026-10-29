@@ -1,0 +1,14 @@
+Output_Field,Purpose
+CVD_Probability,Display existing CVD probability
+CVD_Prediction,Display existing CVD model prediction
+CVD_Risk_Category,Display existing risk category
+Risk_Factor_Count,Show overall risk-factor burden
+Dashboard_Risk_Factors,List flagged cardiovascular risk factors
+Primary_Modifiable_Risk_Factor,Highlight highest-priority modifiable factor
+Thyroid_Status,Display thyroid status
+Dashboard_Abnormal_TSH,Display abnormal TSH flag
+FT3_FT4_Ratio,Display thyroid hormone ratio
+Dashboard_Thyroid_Interpretation,Explain validated thyroid-CVD findings
+Dashboard_Prevention_Recommendations,Provide prevention/risk-management guidance
+Dashboard_Individual_Interpretation,Provide individual interpretation
+Dashboard_Clinical_Safety_Message,Provide medical safety disclaimer

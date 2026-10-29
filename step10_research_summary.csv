@@ -1,0 +1,8 @@
+Metric,Value
+Total participants analyzed,107.0
+Thyroid-problem participants,107.0
+Thyroid-problem + model-predicted CVD,50.0
+Thyroid-problem + no model-predicted CVD,57.0
+Percentage with model-predicted CVD,46.73
+Mean existing CVD probability,0.5246
+Median existing CVD probability,0.5428
